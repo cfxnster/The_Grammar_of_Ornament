@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # title of site appears in banner
 title: The_Grammar_of_Ornament
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a collection of illustrated book plates from Owen Jones's 1856 "The Grammar of Ornament"
+tagline: a collection of illustrated book plates from Owen Jones's 1856 The Grammar of Ornament
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "The_Grammar_of_Ornament is a digital repository containing the illustrated book plates from Owen Jones's 1856 "The Grammar of Ornament." These book plates illustrate ornaments that Jones thought defined certain cultures or art historical epochs."
+description: "The_Grammar_of_Ornament is a digital repository containing the illustrated book plates from Owen Jones's 1856 The Grammar of Ornament. These book plates illustrate ornaments that Jones thought defined certain cultures or art historical epochs."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Caroline Fenstermacher
 
